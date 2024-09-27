@@ -1,0 +1,42 @@
+/* Subpage Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e6e6e6; /* Light grey background for subpages */
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #7B1E3B; /* Darker crimson */
+    border-bottom: 5px solid #333; /* Adds a bold border */
+    color: white;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem; /* Slightly smaller title */
+    font-weight: 300;
+}
+
+main {
+    max-width: 900px;
+    margin: 60px auto;
+    padding: 20px;
+    background-color: #fff; /* White background */
+    border: 1px solid #ccc; /* Adds a border */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #7B1E3B; /* Darker crimson */
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-size: 0.9rem;
+}
