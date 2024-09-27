@@ -21,3 +21,5 @@
 
 - **(5) Class staff will approve your pull request shortly after.**
 
+- **Optional: You can go back to the class repository and see if your pull request is displayed.**
+  - At link: https://github.com/Harvard-CS283/Harvard-CS283.github.io/pulls
