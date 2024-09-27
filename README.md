@@ -2,6 +2,8 @@
 
 Instructions for how to commit your work to this site:
 - (1) Fork this repository.
+   ![Alt text](docs/fork_img.png)
+
 - (2) (Always sync your forked version first in case it is stale) 
 - (3) Commit your edits directy to your forked repository.
    - This will typically involve two steps. You will add your data file in the data folder at the right location then edit some lines one of the .html page files.
