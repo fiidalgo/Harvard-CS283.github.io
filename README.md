@@ -6,7 +6,7 @@
   
   <img src="./docs/fork_img.png" alt="Fork repository" width="600"/>
 
-- **(2) Always sync your forked version first in case it is stale.**
+- **(2) Go to the forked repository which is now in your account homepage. Always sync your forked version first in case it is stale.**
   
   <img src="./docs/fork_sync.png" alt="Sync fork" width="600"/>
 
